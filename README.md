@@ -102,7 +102,7 @@ sed -i -e "s/^indexer *=.*/indexer = \"$indexer\"/" $HOME/.nolus/config/config.t
 
 ## Download addrbook
 ```python
-wget -O $HOME/.nolus/config/addrbook.json "https://raw.githubusercontent.com/obajay/nodes-Guides/main/Nolus/addrbook.json"
+wget -O $HOME/.nolus/config/addrbook.json "https://raw.githubusercontent.com/Irgirival/Nolus/main/addrbook.json"
 ```
 ## StateSync
 ```python
