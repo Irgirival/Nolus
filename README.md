@@ -8,7 +8,7 @@
 | Testnet   |   4|  8GB | 150GB    |
 
 
-# 2) Manual installation
+#  Manual installation
 
 ### Preparing the server
 
